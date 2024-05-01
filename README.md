@@ -7,7 +7,7 @@
 
 Missão prática do 2° nível de conhecimento do 2º Mundo do Curso Desenvolvimento Full-Stack da Universidade Estácio.
 
-🔗 [Projeto](#-Projeto) - [Descrição](#-Descrição) - [Objetivo](#-Objetivo) - [Materiais_necessários](#-Materiais_necessários) - [Instalação](#-Instalação) - [Imagens](#-Imagens) - [Autor](#-Autor).
+🔗 [Projeto](#-Projeto) - [Descrição](#-Descrição) - [Objetivo](#-Objetivo) - [Materiais_necessários](#-Materiais_necessários) - [Autor](#-Autor).
 
 ---
 
