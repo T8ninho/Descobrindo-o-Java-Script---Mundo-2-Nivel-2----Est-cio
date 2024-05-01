@@ -37,7 +37,7 @@ tecnologias abordadas.
 1. Explorar a sintaxe `Javascript` na implementação de algoritmos.
 2. Manipular os elementos da página através do `DOM`.
 3. Utilizar o formato `JSON` para repositórios e transmissão de dados.
-4. Utilizar framework VUE JS na construção dinâmica de `elementos HTML`.
+4. Utilizar framework `VueJS` na construção dinâmica de `elementos HTML`.
 
 ---
 
