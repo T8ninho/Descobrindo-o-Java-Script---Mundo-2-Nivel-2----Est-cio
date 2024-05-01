@@ -1,7 +1,7 @@
 
 # ![capa logotipo-Estacio](https://github.com/T8ninho/Receitas-do-Toni-WebSite/blob/main/Image/Estacio.png)
 
-# RPG0009 - Descobrindo o Java Script
+# RPG0009 - Descobrindo o Javascript
 
 ---
 
